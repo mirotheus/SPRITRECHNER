@@ -2,7 +2,7 @@
 
 # SPRITRECHNER TEAM PLB by MZ 
 
-# FOR SIMRACING AND STINTS
+# Simracing Race Fuel Calculator
 
 **[Hier klicken, um den Spritrechner zu öffnen](https://mirotheus.github.io/PLBSPRITRECHNER/)**
 
