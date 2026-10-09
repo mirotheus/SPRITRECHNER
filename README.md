@@ -1,6 +1,6 @@
 <div align="center">
 
-# SPRITRECHNER TEAM PLB by MZ 
+# Spritrechner TEAM PLB by MZ 
 
 # Simracing Race Fuel Calculator
 
