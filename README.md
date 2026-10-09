@@ -1,3 +1,3 @@
 # SPRITRECHNER TEAM PLB by MZ 
 
-[Hier klicken, um den Spritrechner zu öffnen](https://mirotheus.github.io/SPRITRECHNER/)
+**[Hier klicken, um den Spritrechner zu öffnen](https://mirotheus.github.io/PLBSPRITRECHNER/)**
