@@ -6,7 +6,8 @@
 
 **[Hier klicken, um den Spritrechner zu öffnen](https://mirotheus.github.io/SPRITRECHNER/)**
 
-<img width="180" height="180" alt="apple-touch-icon" src="https://github.com/user-attachments/assets/31772d95-52f3-4551-8bcf-21eaef9eac18" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1aa25b4-f1db-4742-b3cf-ad11ca5f6863" />
+
 
 </div>
 
